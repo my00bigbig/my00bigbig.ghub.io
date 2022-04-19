@@ -1,6 +1,6 @@
-<style type="text/css">
-　// 這是單行註解
-　// 這是單行註解
+<STYLE>
+<!--
+/*這裡是註解*/
 @keyframes change-color{
     14%{color:red;}
     28%{color:orange;}
@@ -18,7 +18,11 @@
     80%{left:800px;}
     100%{left:953px;}
 }
-</style>
+/*CSS屬性名D:屬性值; 這個屬性暫時不用*/
+
+-->
+</STYLE>
+
 h2,p{
     padding-left:10px;
 }
