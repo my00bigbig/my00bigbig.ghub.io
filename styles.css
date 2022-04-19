@@ -1,5 +1,3 @@
-<STYLE>
-<!--
 /*@keyframes change-color{
     14%{color:red;}
     28%{color:orange;}
@@ -17,10 +15,7 @@
     80%{left:800px;}
     100%{left:953px;}
 }
-*/
 
--->
-</STYLE>
 
 h2,p{
     padding-left:10px;
@@ -36,3 +31,4 @@ img:hover{
     animation-duration:5s;
     animation-iteration-count:infinite;
 }
+*/
