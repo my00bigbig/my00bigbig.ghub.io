@@ -1,7 +1,6 @@
 <STYLE>
 <!--
-/*這裡是註解*/
-@keyframes change-color{
+/*@keyframes change-color{
     14%{color:red;}
     28%{color:orange;}
     42%{color:rgb(230, 23, 70);}
@@ -18,7 +17,7 @@
     80%{left:800px;}
     100%{left:953px;}
 }
-/*CSS屬性名D:屬性值; 這個屬性暫時不用*/
+*/
 
 -->
 </STYLE>
